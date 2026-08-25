@@ -1,0 +1,7 @@
+flop_agent_identity.json
+public_proof.json
+.venv/
+__pycache__/
+*.py[cod]
+*.backup
+*.tmp
